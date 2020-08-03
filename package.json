@@ -1,0 +1,19 @@
+{
+  "name": "nodejsshop",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wafa1303/nodejsshop.git"
+  },
+  "author": "wafaa koulache",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wafa1303/nodejsshop/issues"
+  },
+  "homepage": "https://github.com/wafa1303/nodejsshop#readme",
+  "description": ""
+}
